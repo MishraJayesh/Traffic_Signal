@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Traffic_Signal/static/css/main.8a9e103c.css",
+    "main.js": "/Traffic_Signal/static/js/main.c1681704.js",
+    "index.html": "/Traffic_Signal/index.html",
+    "main.8a9e103c.css.map": "/Traffic_Signal/static/css/main.8a9e103c.css.map",
+    "main.c1681704.js.map": "/Traffic_Signal/static/js/main.c1681704.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a9e103c.css",
+    "static/js/main.c1681704.js"
+  ]
+}
